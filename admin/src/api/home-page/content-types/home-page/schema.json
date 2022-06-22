@@ -1,0 +1,44 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_pages",
+  "info": {
+    "singularName": "home-page",
+    "pluralName": "home-pages",
+    "displayName": "HomePage",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "logo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "title": {
+      "type": "string",
+      "required": true,
+      "default": "Hi, I am Myname"
+    },
+    "text": {
+      "type": "text"
+    },
+    "url_title": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "greeting": {
+      "type": "string",
+      "required": true,
+      "maxLength": 30,
+      "default": "Hi, my name is"
+    }
+  }
+}
