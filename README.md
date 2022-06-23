@@ -33,6 +33,12 @@ Frontend is based on [Vue.js framework](https://vuejs.org/) and [Chota](https://
 
 Clone this repo
 
+Run
+
+`nom instal`
+
+in admin and client directory to install dependencies
+
 ## Usage
 
 ### Run Strapi
