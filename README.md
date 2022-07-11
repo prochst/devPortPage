@@ -76,6 +76,6 @@ Distributed under the MIT License. See license.txt for more information.
 
 ## Contact
 
-Autor: Standa Procházka - prochst@gmmail.com
+Autor: Standa Procházka - prochst.dev@gmmail.com
 
 Projekt: [GitHub](https://github.com/prochst/devPortPage)
